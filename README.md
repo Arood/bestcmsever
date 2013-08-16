@@ -1,4 +1,4 @@
 bestcmsever
 ===========
 
-The Best CMS Ever!
+The best CMS ever!
